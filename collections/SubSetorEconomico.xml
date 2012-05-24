@@ -1,0 +1,178 @@
+<subSetorEconomicoCollection>
+	<nivelProfissional>
+		<id>1</id>
+		<nome>Agropecuária</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>2</id>
+		<nome>Água e Saneamento</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>3</id>
+		<nome>Alimentos Processados</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>4</id>
+		<nome>Bebidas</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>5</id>
+		<nome>Comércio</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>6</id>
+		<nome>Comércio e Distribuição</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>7</id>
+		<nome>Computadores e Equipamentos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>8</id>
+		<nome>Construção e Engenharia</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>9</id>
+		<nome>Diversos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>10</id>
+		<nome>Embalagens</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>11</id>
+		<nome>Energia Elétrica</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>12</id>
+		<nome>Equipamentos Elétricos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>13</id>
+		<nome>Exploração de Imóveis</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>14</id>
+		<nome>Fumo</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>15</id>
+		<nome>Fundos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>16</id>
+		<nome>Gás</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>17</id>
+		<nome>Holdings Diversificadas</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>18</id>
+		<nome>Hoteis e Restaurantes</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>19</id>
+		<nome>Intermediários Financeiros</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>20</id>
+		<nome>Lazer</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>21</id>
+		<nome>Madeira e Papel</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>22</id>
+		<nome>Máquinas e Equipamentos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>23</id>
+		<nome>Materiais Diversos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>24</id>
+		<nome>Material de Transporte</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>25</id>
+		<nome>Mídia</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>26</id>
+		<nome>Mineração</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>27</id>
+		<nome>Outros</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>28</id>
+		<nome>Outros Títulos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>29</id>
+		<nome>Petróleo, Gás e Biocombustíveis</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>30</id>
+		<nome>Previdência e Seguros</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>31</id>
+		<nome>Produtos de Uso Pessoal e de Limpeza</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>32</id>
+		<nome>Programas e Serviços</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>33</id>
+		<nome>Químicos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>34</id>
+		<nome>Saúde</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>35</id>
+		<nome>Securitizadoras de Recebíveis</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>36</id>
+		<nome>Serviços</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>37</id>
+		<nome>Serviços Diversos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>38</id>
+		<nome>Serviços Financeiros Diversos</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>39</id>
+		<nome>Siderurgia e Metalurgia</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>40</id>
+		<nome>Tecidos, Vestuário e Calçados</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>41</id>
+		<nome>Telefonia Fixa</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>42</id>
+		<nome>Telefonia Móvel</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>43</id>
+		<nome>Transporte</nome>
+	</nivelProfissional>
+	<nivelProfissional>
+		<id>44</id>
+		<nome>Utilidades Domésticas</nome>
+	</nivelProfissional>
+</subSetorEconomicoCollection>

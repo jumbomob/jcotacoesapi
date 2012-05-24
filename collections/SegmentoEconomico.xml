@@ -1,0 +1,390 @@
+<segmentoCollection>
+	<segmento>
+		<id>1</id>
+		<nome>Acessórios</nome>
+	</segmento>
+	<segmento>
+		<id>2</id>
+		<nome>Açucar e Alcool</nome>
+	</segmento>
+	<segmento>
+		<id>3</id>
+		<nome>Agricultura</nome>
+	</segmento>
+	<segmento>
+		<id>4</id>
+		<nome>Água e Saneamento</nome>
+	</segmento>
+	<segmento>
+		<id>5</id>
+		<nome>Alimentos</nome>
+	</segmento>
+	<segmento>
+		<id>6</id>
+		<nome>Alimentos Diversos</nome>
+	</segmento>
+	<segmento>
+		<id>7</id>
+		<nome>Aluguel de carros</nome>
+	</segmento>
+	<segmento>
+		<id>8</id>
+		<nome>Armas e Munições</nome>
+	</segmento>
+	<segmento>
+		<id>9</id>
+		<nome>Artefatos de Cobre</nome>
+	</segmento>
+	<segmento>
+		<id>10</id>
+		<nome>Artefatos de Ferro e Aço</nome>
+	</segmento>
+	<segmento>
+		<id>11</id>
+		<nome>Atividades Esportivas</nome>
+	</segmento>
+	<segmento>
+		<id>12</id>
+		<nome>Bancos</nome>
+	</segmento>
+	<segmento>
+		<id>13</id>
+		<nome>Bicicletas</nome>
+	</segmento>
+	<segmento>
+		<id>14</id>
+		<nome>Brinquedos e Jogos</nome>
+	</segmento>
+	<segmento>
+		<id>15</id>
+		<nome>Café</nome>
+	</segmento>
+	<segmento>
+		<id>16</id>
+		<nome>Calçados</nome>
+	</segmento>
+	<segmento>
+		<id>17</id>
+		<nome>Carnes e Derivados</nome>
+	</segmento>
+	<segmento>
+		<id>18</id>
+		<nome>Cervejas e Refrigerantes</nome>
+	</segmento>
+	<segmento>
+		<id>19</id>
+		<nome>Cigarros e Fumo</nome>
+	</segmento>
+	<segmento>
+		<id>20</id>
+		<nome>Computadores e Equipamentos</nome>
+	</segmento>
+	<segmento>
+		<id>21</id>
+		<nome>Construção Civil</nome>
+	</segmento>
+	<segmento>
+		<id>22</id>
+		<nome>Construção Pesada</nome>
+	</segmento>
+	<segmento>
+		<id>23</id>
+		<nome>Corretoras de Seguros</nome>
+	</segmento>
+	<segmento>
+		<id>24</id>
+		<nome>Eletrodomésticos</nome>
+	</segmento>
+	<segmento>
+		<id>25</id>
+		<nome>Eletrodomésticos</nome>
+	</segmento>
+	<segmento>
+		<id>26</id>
+		<nome>Embalagens</nome>
+	</segmento>
+	<segmento>
+		<id>27</id>
+		<nome>Energia Elétrica</nome>
+	</segmento>
+	<segmento>
+		<id>28</id>
+		<nome>Engenharia Consultiva</nome>
+	</segmento>
+	<segmento>
+		<id>29</id>
+		<nome>Equipamentos e Serviços</nome>
+	</segmento>
+	<segmento>
+		<id>30</id>
+		<nome>Equipamentos Elétricos</nome>
+	</segmento>
+	<segmento>
+		<id>31</id>
+		<nome>Exploração de Imóveis</nome>
+	</segmento>
+	<segmento>
+		<id>32</id>
+		<nome>Exploração de Rodovias</nome>
+	</segmento>
+	<segmento>
+		<id>33</id>
+		<nome>Exploração e/ou Refino</nome>
+	</segmento>
+	<segmento>
+		<id>34</id>
+		<nome>Fertilizantes e Defensivos</nome>
+	</segmento>
+	<segmento>
+		<id>35</id>
+		<nome>Fios e Tecidos</nome>
+	</segmento>
+	<segmento>
+		<id>36</id>
+		<nome>Fundos de Ações</nome>
+	</segmento>
+	<segmento>
+		<id>37</id>
+		<nome>Fundos de Direitos Creditórios</nome>
+	</segmento>
+	<segmento>
+		<id>38</id>
+		<nome>Fundos de Incentivo Setorial</nome>
+	</segmento>
+	<segmento>
+		<id>39</id>
+		<nome>Fundos Imobiliários</nome>
+	</segmento>
+	<segmento>
+		<id>40</id>
+		<nome>Gás</nome>
+	</segmento>
+	<segmento>
+		<id>41</id>
+		<nome>Gestão de Recursos e Investimentos</nome>
+	</segmento>
+	<segmento>
+		<id>42</id>
+		<nome>Grãos e Derivados</nome>
+	</segmento>
+	<segmento>
+		<id>43</id>
+		<nome>Holdings Diversificadas</nome>
+	</segmento>
+	<segmento>
+		<id>44</id>
+		<nome>Hotelaria</nome>
+	</segmento>
+	<segmento>
+		<id>45</id>
+		<nome>Intermediação Imobiliária</nome>
+	</segmento>
+	<segmento>
+		<id>46</id>
+		<nome>Jornais, Livros e Revistas</nome>
+	</segmento>
+	<segmento>
+		<id>47</id>
+		<nome>Laticínios</nome>
+	</segmento>
+	<segmento>
+		<id>48</id>
+		<nome>Madeira</nome>
+	</segmento>
+	<segmento>
+		<id>49</id>
+		<nome>Máq. e Equip. Construção e Agrícolas</nome>
+	</segmento>
+	<segmento>
+		<id>50</id>
+		<nome>Máq. e Equip. Hospitalares</nome>
+	</segmento>
+	<segmento>
+		<id>51</id>
+		<nome>Máq. e Equip. Industriais</nome>
+	</segmento>
+	<segmento>
+		<id>52</id>
+		<nome>Máquinas e Equipamentos</nome>
+	</segmento>
+	<segmento>
+		<id>53</id>
+		<nome>Materiais de Construção</nome>
+	</segmento>
+	<segmento>
+		<id>54</id>
+		<nome>Materiais Diversos</nome>
+	</segmento>
+	<segmento>
+		<id>55</id>
+		<nome>Material Aeronáutico</nome>
+	</segmento>
+	<segmento>
+		<id>56</id>
+		<nome>Material de Transporte</nome>
+	</segmento>
+	<segmento>
+		<id>57</id>
+		<nome>Material Ferroviário</nome>
+	</segmento>
+	<segmento>
+		<id>58</id>
+		<nome>Material Rodoviário</nome>
+	</segmento>
+	<segmento>
+		<id>59</id>
+		<nome>Medicamentos</nome>
+	</segmento>
+	<segmento>
+		<id>60</id>
+		<nome>Medicamentos e Outros Produtos</nome>
+	</segmento>
+	<segmento>
+		<id>61</id>
+		<nome>Minerais Metálicos</nome>
+	</segmento>
+	<segmento>
+		<id>62</id>
+		<nome>Motores , Compressores e Outros</nome>
+	</segmento>
+	<segmento>
+		<id>63</id>
+		<nome>Outros</nome>
+	</segmento>
+	<segmento>
+		<id>64</id>
+		<nome>Outros Intermediarios Financeiros</nome>
+	</segmento>
+	<segmento>
+		<id>65</id>
+		<nome>Outros Títulos</nome>
+	</segmento>
+	<segmento>
+		<id>66</id>
+		<nome>Papel e Celulose</nome>
+	</segmento>
+	<segmento>
+		<id>67</id>
+		<nome>Parques de Diversão</nome>
+	</segmento>
+	<segmento>
+		<id>68</id>
+		<nome>Petroquímicos</nome>
+	</segmento>
+	<segmento>
+		<id>69</id>
+		<nome>Produção de Eventos e Shows</nome>
+	</segmento>
+	<segmento>
+		<id>70</id>
+		<nome>Produtos de Limpeza</nome>
+	</segmento>
+	<segmento>
+		<id>71</id>
+		<nome>Produtos de Uso Pessoal</nome>
+	</segmento>
+	<segmento>
+		<id>72</id>
+		<nome>Produtos Diversos</nome>
+	</segmento>
+	<segmento>
+		<id>73</id>
+		<nome>Programas de Fidelização</nome>
+	</segmento>
+	<segmento>
+		<id>74</id>
+		<nome>Programas e Serviços</nome>
+	</segmento>
+	<segmento>
+		<id>75</id>
+		<nome>Publicidade e Propaganda</nome>
+	</segmento>
+	<segmento>
+		<id>76</id>
+		<nome>Químicos Diversos</nome>
+	</segmento>
+	<segmento>
+		<id>77</id>
+		<nome>Restaurante e Similares</nome>
+	</segmento>
+	<segmento>
+		<id>78</id>
+		<nome>Securitizadoras de Recebíveis</nome>
+	</segmento>
+	<segmento>
+		<id>79</id>
+		<nome>Seguradoras</nome>
+	</segmento>
+	<segmento>
+		<id>80</id>
+		<nome>Serv.Méd.Hospit.,Análises e Diagnósticos</nome>
+	</segmento>
+	<segmento>
+		<id>81</id>
+		<nome>Serviços de Apoio e Armazenagem</nome>
+	</segmento>
+	<segmento>
+		<id>82</id>
+		<nome>Serviços Diversos</nome>
+	</segmento>
+	<segmento>
+		<id>83</id>
+		<nome>Serviços Educacionais</nome>
+	</segmento>
+	<segmento>
+		<id>84</id>
+		<nome>Serviços Financeiros Diversos</nome>
+	</segmento>
+	<segmento>
+		<id>85</id>
+		<nome>Siderurgia</nome>
+	</segmento>
+	<segmento>
+		<id>86</id>
+		<nome>Soc. Arrendamento Mercantil</nome>
+	</segmento>
+	<segmento>
+		<id>87</id>
+		<nome>Soc. Crédito e Financiamento</nome>
+	</segmento>
+	<segmento>
+		<id>88</id>
+		<nome>Tecidos, Vestuário e Calçados</nome>
+	</segmento>
+	<segmento>
+		<id>89</id>
+		<nome>Telefonia Fixa</nome>
+	</segmento>
+	<segmento>
+		<id>90</id>
+		<nome>Telefonia móvel</nome>
+	</segmento>
+	<segmento>
+		<id>91</id>
+		<nome>Televisão por Assinatura</nome>
+	</segmento>
+	<segmento>
+		<id>92</id>
+		<nome>Transporte Aéreo</nome>
+	</segmento>
+	<segmento>
+		<id>93</id>
+		<nome>Transporte Ferroviário</nome>
+	</segmento>
+	<segmento>
+		<id>94</id>
+		<nome>Transporte Hidroviário</nome>
+	</segmento>
+	<segmento>
+		<id>95</id>
+		<nome>Transporte Rodoviário</nome>
+	</segmento>
+	<segmento>
+		<id>96</id>
+		<nome>Utensílios Domésticos</nome>
+	</segmento>
+	<segmento>
+		<id>97</id>
+		<nome>Vestuário</nome>
+	</segmento>
+</segmentoCollection>

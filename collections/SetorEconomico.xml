@@ -1,0 +1,42 @@
+<setorEconomicoCollection>
+	<setor>
+		<id>1</id>
+		<nome>Bens Industriais</nome>
+	</setor>
+	<setor>
+		<id>2</id>
+		<nome>Construção e Transporte</nome>
+	</setor>
+	<setor>
+		<id>3</id>
+		<nome>Consumo Cíclico</nome>
+	</setor>
+	<setor>
+		<id>4</id>
+		<nome>Consumo não Cíclico</nome>
+	</setor>
+	<setor>
+		<id>5</id>
+		<nome>Financeiro e Outros</nome>
+	</setor>
+	<setor>
+		<id>6</id>
+		<nome>Materiais Básicos</nome>
+	</setor>
+	<setor>
+		<id>7</id>
+		<nome>Petróleo, Gás e Biocombustíveis</nome>
+	</setor>
+	<setor>
+		<id>8</id>
+		<nome>Tecnologia da Informação</nome>
+	</setor>
+	<setor>
+		<id>9</id>
+		<nome>Telecomunicações</nome>
+	</setor>
+	<setor>
+		<id>10</id>
+		<nome>Utilidade Pública</nome>
+	</setor>
+</setorEconomicoCollection>
